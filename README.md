@@ -1,9 +1,4 @@
-# React + Vite
+Nama : Naufal Puji Mahdy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# frontend-pretest
+run project : npm run dev
+Deskripsi : pada project ini saya mengusahakan untuk mengikuti sesuai intruksi soal pre-test yang telah dikirimkan kepada saya, pada project ini saya menggunakan library React Js dan library react js yaitu Ant Design. Jika masih ada kekurang atau kesalahan saya mohon maaf, ini saya buatkan dengan rasa semangat dan sebaik mungkin, Terimakasih :)
